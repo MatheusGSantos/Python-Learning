@@ -1,3 +1,4 @@
+#source: https://leimao.github.io/blog/Byte-Pair-Encoding/
 from collections import defaultdict
 import re
 
